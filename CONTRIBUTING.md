@@ -2,17 +2,7 @@
 
 Thank you for taking the time to contribute to this project. 🎉
 
-<!--delete sentences below when reusing this repository-->
-
-When reusing this repository please replace the content highlighted in bold with the information that best represents your project.
-As a template, this repository can be directly copied to start a new project with standard files and processes required in any collaborative data science and research project.
-Although we also use open research practices by sharing this repository public for further reuse in different projects, users can select the appropriate license and access levels for their collaborators.
-
-To learn more about why we recommend creating a `CONTRIBUTING.md` file, please read the [Contributors and Communication Pathways chapter](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-contributors.html) in *The Turing Way* Guide for Project Design.
-
-<!--delete sentences above this line when reusing this repository-->
-
-The **Reproducible Project Template** repository is developed under ***[The Turing Way](https://github.com/alan-turing-institute/the-turing-way)* to demonstrate the practical integration of reproducibility practices on the collaborative or shared online repository**.
+This repository is maintained by the OLS team.
 
 This project is being developed **openly** and invites contributions from **anyone interested** in reproducible data science who would like to get involved.
 You can suggest topics to include in this repository, report mistakes/bugs, create Pull Requests to fix an error, offer resources or help develop or review the training materials.
@@ -42,7 +32,7 @@ You can also share this repository with someone who might be interested to get i
 You can read our [README](./README.md) file to find details and the next milestones in the project.
 You can also read different issues in this repository and comment where you would like to be involved.
 
-🎉 It's my life's mission to enable reproducibility in data science and research
+🎉 It's my life's mission to support the mission of this project
 ---
 
 Please share feedback on the contents proposed for setting up an online collaborative repository for data science and research.
@@ -62,7 +52,7 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to **Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**.
+For any organisation related queries or concerns, you can directly reach out to the OLS team by emailing [team@openlifesci.org](mailto:team@openlifesci.org).
 
 ♻️ License
 ---
@@ -74,5 +64,3 @@ as long as you provide attribution (give appropriate credit, provide a link to t
 and indicate if changes were made) in any reasonable manner, but not in any way that suggests the 
 licensor endorses you or your use, and with no additional restrictions.
 <!--Replace these sentences to appropriate reflect the license chosen in your project-->
-
-For a more detailed contribution guideline, please check out *[The Turing Way's CONTRIBUTING.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)*.
