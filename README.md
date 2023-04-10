@@ -19,7 +19,7 @@ To cite this document, please use:
 - [x] Set up an internal data storage to protect research data under GDPR regulation
 - [x] Publish the project proposal on Zenodo
 - [x] Set up finance management process to receive the Turing Skills Policy Award
-- [ ] Set up a timeline and deliverable document
+- [x] Set up a timeline and deliverable document
 - [ ] Set up agreements with the fellows involved in this project
 - [ ] Create a project charter to provide stakeholders information and define nature of engagement
 - [ ] Set up data management plan (GDPR compliance)
@@ -75,15 +75,15 @@ You can also directly reach out to Yo by emailing [yo@openlifesci.org](mailto:yo
 
 This project will be conducted collaboratively and utlising open science practices. This means that we will transparently communicate the project's goals, roadmap, status, methods and opportunities for collaboration.
 All non-sensitive data and resources from the project will be shared on this GitHub repository.
-We will closely follow the [GDPR checklist to manage consent for GDPR compliance	
-Easy GDPR checklist to manage consent for GDPR compliance](https://usercentrics.com/resources/gdpr-checklist/?utm_source=google&utm_medium=cpc&utm_term=data%20protection%20european%20union&utm_campaign=gdpr-checklist-uk&utm_content=search&gclid=CjwKCAjw586hBhBrEiwAQYEnHTi70-Ypb-gi68vAd2r95Lyj4W0iGCcpPEiXw92295l9zMvgNJUPBBoCd24QAvD_BwE)/ 
+We will closely follow the [GDPR checklist to manage consent for GDPR compliance](https://usercentrics.com/resources/gdpr-checklist/?utm_source=google&utm_medium=cpc&utm_term=data%20protection%20european%20union&utm_campaign=gdpr-checklist-uk&utm_content=search&gclid=CjwKCAjw586hBhBrEiwAQYEnHTi70-Ypb-gi68vAd2r95Lyj4W0iGCcpPEiXw92295l9zMvgNJUPBBoCd24QAvD_BwE).
+
 ### Checklist for setting this repository 
 
 - [x] Add a README file
 - [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [x] Add a [LICENSE](LICENSE.md)
 - [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [ ] Install [all-contributors](https://allcontributors.org/) bot
+- [x] Install [all-contributors](https://allcontributors.org/) bot
 - [x] Create a directory with files for project management (meetings, report, proposals)
   - [x] Create a directory with files for communications
 - [x] Create a directory for research data
@@ -91,6 +91,7 @@ Easy GDPR checklist to manage consent for GDPR compliance](https://usercentrics.
 - [ ] Connect repo with Zenodo
 - [ ] Add cff file for citation
 - [ ] Add badges
+
 ### Repository Structure
 
 This repository contains the following directories and files.
