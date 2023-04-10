@@ -22,9 +22,34 @@ To cite this document, please use:
 - [ ] Set up a timeline and deliverable document
 - [ ] Set up agreements with the fellows involved in this project
 - [ ] Create a project charter to provide stakeholders information and define nature of engagement
-- [ ] Stakeholder mapping for each deliverable
-- [ ] Landscape analysis by literature review for each deliverable
-- [ ] Invite external contributors to this project
+- [ ] Set up data management plan (GDPR compliance)
+- [ ] Deliverable 1.1 - Expert Consutation (UK)
+  - [ ] Stakeholder mapping
+  - [ ] Shortlisting and invitation
+  - [ ] Conduting interview/consulation
+  - [ ] Summarising interview notes
+  - [ ] Drawing key points for the Deliverable 3
+- [ ] Deliverable 2 - Policy review research preprint
+  - [ ] Each contributor to the project carries out literature review
+  - [ ] Combine each review in a shared draft
+  - [ ] Review the draft (project team)
+  - [ ] Invite community review of the draft (preprint)
+  - [ ] Submit preprint for peer-review publication
+- [ ] Deliverable 3 - Policy Briefing Note
+  - [ ] Combine insights from the literature review and expert consultation
+  - [ ] Define the scope and structure of the policy briefing
+  - [ ] Allocate different section of the policy briefing to each project member
+  - [ ] Review and edit the full draft (project team)
+- [ ] Deliverable 1.2 - Expert Consutation (international)
+  - [ ] Stakeholder mapping
+  - [ ] Shortlisting and invitation
+  - [ ] Conduting interview/consulation
+  - [ ] Summarising interview notes
+  - [ ] Drawing key points and add to the Deliverable 3
+- [ ] Key publication of the policy briefing note
+  - [ ] Invite community review of the draft 
+  - [ ] Submit briefing note to reevant bodies/platforms
+  - [ ] Present outcomes to the national and international audience
 
 ## Contributors and Maintainers
 
