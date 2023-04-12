@@ -11,9 +11,13 @@ Nonetheless, even in open source, software developers self-report to be over 90%
 [15% self-report as BME](https://osf.io/preprints/socarxiv/qps53).
 With growing applications of data science and AI technology in decision making and automation, as per [ONS analysis](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25), women and young people are most at risk of unemployment. It is unsurprising that lack of diversity among tech workforce directly reflects on the technology and continues to disadvantage populations from marginalised communities who already experience systemic barriers to participation. 
 
-Through this project, OLS aims to address the above described challenge by diversifying skills for the next generation of diverse workforce in areas utilising open data practices, providing them with the opportunity to take new career directions and gain funding through collaboration, leadership and entrepreneurship. 
+Through this project, OLS aims to address the above described challenge by diversifying skills for the next generation of diverse workforce.
+This work will strengthen the use of open source and open data practices and offer a resource to 
+recognise opportunities to take new career directions.
+By engaging with policy landscape, this work will support investments and funding for collaboration, leadership and entrepreneurship to widen participation. 
 
-OLS’ goals and operations directly align with the theme of ‘widening participation’. OLS embodies principles of EDIA and is deeply committed to achieving AI and data literacy for everyone, operationalising the[ AI Council Roadmap](https://www.gov.uk/government/publications/ai-roadmap) recommendations mentioned under this theme.
+OLS’ goals and operations directly align with the theme of ‘widening participation’. 
+OLS embodies principles of EDIA and is deeply committed to achieving AI and data literacy for everyone, operationalising the[ AI Council Roadmap](https://www.gov.uk/government/publications/ai-roadmap) recommendations mentioned under this theme.
 
 Full proposal can be read on Zenodo: [zenodo.org/record/7602717](https://zenodo.org/record/7602717).
 To cite this document, please use:
