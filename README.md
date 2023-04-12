@@ -113,18 +113,18 @@ This repository contains the following directories and files.
 ├── CODE_OF_CONDUCT.md <- Guidelines for users and contributors of the project.
 ├── CONTRIBUTING.md    <- Information on how to contribute to the project.
 ├── data
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
+│   ├── processed      <- The wrangled and cleaned data sets for analysis.
+│   └── raw            <- The original unprocessed data.
 │
-├── docs               <- A default Sphinx project; see sphinx-doc.org for details            
-│   └── reports        <- Generated analysis as HTML, PDF, LaTeX, etc.
+├── docs               <- All project related documents to share          
+│   └── reports        <- Regular report document
 │
 ├── project_management <- Meeting notes and other project planning resources
 │   └── communications <- Communications materials related to the project
 └──
 ```
 
-*This repository uses the Template repository provided by The Turing Way Team: [github.com/alan-turing-institute/reproducible-project-templat](https://github.com/alan-turing-institute/reproducible-project-template)*.
+*This repository uses the Template repository provided by The Turing Way Team: [github.com/alan-turing-institute/reproducible-project-template](https://github.com/alan-turing-institute/reproducible-project-template)*.
 
 ♻️ License
 ---
