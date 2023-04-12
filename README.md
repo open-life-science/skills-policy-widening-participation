@@ -1,6 +1,7 @@
-# Skills Policy Award for the theme 'Widening Participation'
+# Strengthening Policies for Widening Participation in Data Science
 
 *Public repository to share resources from the OLS project on 'Widening Participation in Higher Education' funded under the Turing's Skills Policy Award.*
+
 ## Background
 
 Diversity amongst staff and students in higher education is [demonstrably unequal](https://www.ecu.ac.uk/about-us/he-equality-challenges), 
